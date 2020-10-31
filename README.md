@@ -29,3 +29,11 @@
 #### [练习3.使用safeProp 和fp.first找到user名字的首字母](./code/03-03.js)
 #### [练习4.使用Maybe重写ex4，不能有if语句](./code/03-04.js)
 ## [四、手写实现MyPromise源码](./code/04.js)
+## 五、学习笔记
+#### [函数式编程笔记链接](https://www.jianshu.com/p/e5574275c497)
+#### [异步编程笔记点的链接]()
+#### [手写Promise笔记链接](https://www.jianshu.com/p/c43364b54614)
+## 六、学习总结
+# 学习总结
+## [函数式编程总结链接](https://www.processon.com/mindmap/5f981ddb7d9c0806f2934591)
+## [异步编程总结链接](https://www.processon.com/mindmap/5f993c3f1e08533134f9ea2e)
