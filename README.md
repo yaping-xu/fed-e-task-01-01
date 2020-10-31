@@ -16,4 +16,11 @@
 - setTimeout以宏任务的形式进入回调队列的末尾，目前大多数异步调用都作为宏任务执行
 - Promise && MutationObserver && procss.nextTick 作为微任务来执行
 # 代码题
-## [异步代码使用Promsie的方法改进](./code/01.js)
+## 一、将下列异步代码使用Promise的方法改进
+#### [异步代码使用Promsie的方法改进](./code/01-01.js)
+## 二、基于以下代码完成下面的四个练习
+#### [练习1.flowRight获取最后一条数据的in_stock](./code/02-01.js)
+#### [练习2.flowRight获取第一个car的name](./code/02-02.js)
+#### [练习3.使用帮助函数_average重构averageDollarValue](./code.02-03.js)
+#### [练习4.使用flowRight写一个sanitizeNames()函数](./code.04.js)
+## 三、基于下面代码完成后面的四个练习

@@ -1,0 +1,22 @@
+{
+  "name": "fed-e-task-01-01",
+  "version": "1.0.0",
+  "description": "- 因为js是单线程语言，在js执行中，负责执行代码的进程只有一个，所以当遇到耗时操作时，页面会造成假死现象，异步编程模式就是为了解决这一问题。 - 异步模式的主要表现为不会等待当前任务执行完再执行下一个任务，而是开启后立即执行下一个任务，后续逻辑一般通过回调函数的方式定义，等耗时操作完成后，通过回调函数定义的逻辑进行执行 - 现在的异步模式的解决方案有三种 Promise，Generator 和 async/await 三种模式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaping-xu/fed-e-task-01-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaping-xu/fed-e-task-01-01/issues"
+  },
+  "homepage": "https://github.com/yaping-xu/fed-e-task-01-01#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
