@@ -34,6 +34,5 @@
 #### [异步编程笔记点的链接]()
 #### [手写Promise笔记链接](https://www.jianshu.com/p/c43364b54614)
 ## 六、学习总结
-# 学习总结
 ## [函数式编程总结链接](https://www.processon.com/mindmap/5f981ddb7d9c0806f2934591)
 ## [异步编程总结链接](https://www.processon.com/mindmap/5f993c3f1e08533134f9ea2e)
