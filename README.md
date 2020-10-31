@@ -21,6 +21,10 @@
 ## 二、基于以下代码完成下面的四个练习
 #### [练习1.flowRight获取最后一条数据的in_stock](./code/02-01.js)
 #### [练习2.flowRight获取第一个car的name](./code/02-02.js)
-#### [练习3.使用帮助函数_average重构averageDollarValue](./code.02-03.js)
-#### [练习4.使用flowRight写一个sanitizeNames()函数](./code.04.js)
+#### [练习3.使用帮助函数_average重构averageDollarValue](./code/02-03.js)
+#### [练习4.使用flowRight写一个sanitizeNames()函数](./code/02-04.js)
 ## 三、基于下面代码完成后面的四个练习
+#### [练习1.使用fp.add和fp.map能让functor的值增加的函数ex1](./code/03-01.js)
+#### [练习2.使用fp.first获取列表的第一个元素](./code/03-02.js)
+#### [练习3.使用safeProp 和fp.first找到user名字的首字母](./code/03-03.js)
+#### [练习4.使用Maybe重写ex4，不能有if语句](./code/03-04.js)
