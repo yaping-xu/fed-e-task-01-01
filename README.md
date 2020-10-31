@@ -28,3 +28,4 @@
 #### [练习2.使用fp.first获取列表的第一个元素](./code/03-02.js)
 #### [练习3.使用safeProp 和fp.first找到user名字的首字母](./code/03-03.js)
 #### [练习4.使用Maybe重写ex4，不能有if语句](./code/03-04.js)
+## [四、手写实现MyPromise源码](./code/04.js)
